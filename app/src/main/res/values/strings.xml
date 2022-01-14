@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Organizze</string>
+
+    <!-- Strings slider -->
+    <string name="title_intro_1">Organize suas contas \n de onde estiver</string>
+    <string name="subtitle_intro_1">Simples, fácil de usar e grátis</string>
+    <string name="title_intro_2">Saiba para onde está indo seu dinheiro</string>
+    <string name="subtitle_intro_2">Categorizando seus lançamentos e vendo \n o destino de cada centavo</string>
+    <string name="title_intro_3">Nunca mais esqueça de \n pagar uma conta</string>
+    <string name="subtitle_intro_3">Receba alertas quando quiser</string>
+    <string name="title_intro_4">Tudo organizado, no \n celular ou computador</string>
+    <string name="subtitle_intro_4">Use no seu smartphone e acessando o \n Organizze pelo site</string>
+
+    <!-- Strings intro tela cadastro e login -->
+    <string name="intro_cadastro_title">Crie sua conta grátis</string>
+    <string name="intro_cadastro_subtitle">Junte-se a mais de meio milhão \n de pessoas e comece já</string>
+    <string name="intro_cadastro_button_cadastrar">Cadastre-se</string>
+    <string name="intro_cadastro_link_possuo_conta">Já tenho conta</string>
+
+    <!-- Strings tela de cadastro -->
+    <string name="title_tela_cadastro">Crie sua conta grátis</string>
+    <string name="hint_email_plainText">Email</string>
+    <string name="hint_nome_plainText">Nome</string>
+    <string name="hint_senha_plainText">Senha</string>
+    <string name="button_cadastrar">Cadastrar</string>
+    <string name="termos_de_uso">Termos de uso</string>
+
+    <!-- Strings tela login -->
+    <string name="title_tela_Login">Acesse sua conta</string>
+    <string name="button_entrar">Entrar</string>
+
+</resources>
